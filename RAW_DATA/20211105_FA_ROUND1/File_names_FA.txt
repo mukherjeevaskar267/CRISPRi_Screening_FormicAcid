@@ -1,0 +1,25 @@
+FOLDER_NAME	FILE_NAME
+V1_211027 abs and norm	FA140_V1_211027_phenotypes.NormalizedRelative.plate_3.csv
+V2_211027 abs and norm	FA140_V2_211027_phenotypes.NormalizedRelative.plate_4.csv
+V3_211024 abs and norm	FA140_V3_211024_phenotypes.NormalizedRelative.plate_3.csv
+V4_211024 abs and norm	FA140_V4_211024_phenotypes.NormalizedRelative.plate_4.csv
+V5nr2_211105 abs and norm	FA140_V5nr2_211105_phenotypes.NormalizedRelative.plate_3.csv
+V6nr2_211105 abs and norm	FA140_V6nr2_211105_phenotypes.NormalizedRelative.plate_4.csv
+V7nr2_211105 abs and norm	FA140_V7nr2_211105_phenotypes.NormalizedRelative.plate_3.csv
+V8nr2_211105 abs and norm	FA140_V8nr2_211105_phenotypes.NormalizedRelative.plate_4.csv
+V9nr2_211105 abs and norm	FA140_v9nr2_211105_phenotypes.NormalizedRelative.plate_3.csv
+V10nr2_211105 abs and norm	FA140_v10nr2_211105_phenotypes.NormalizedRelative.plate_4.csv
+V11_211105 abs and norm	FA140_V11_211105_phenotypes.NormalizedRelative.plate_3.csv
+V12_211105 abs and norm	FA140_V12_211105_phenotypes.NormalizedRelative.plate_4.csv
+V13_211029 abs and norm	FA140_V13_211029_phenotypes.NormalizedRelative.plate_3.csv
+V14_211029 abs and norm	FA140_V14_211029_phenotypes.NormalizedRelative.plate_4.csv
+V15_211105 abs and norm	FA140_V15_211105_phenotypes.NormalizedRelative.plate_3.csv
+V16_211105 abs and norm	FA140_V16_211105_phenotypes.NormalizedRelative.plate_4.csv
+V17_211029 abs and norm	FA140_V17_211029_phenotypes.NormalizedRelative.plate_3.csv
+V18_211029 abs and norm	FA140_V18_211029_phenotypes.NormalizedRelative.plate_4.csv
+V19_211105 abs and norm	FA140_V19_211105_phenotypes.NormalizedRelative.plate_3.csv
+V20_211105 abs and norm	FA140_V20_211105_phenotypes.NormalizedRelative.plate_4.csv
+V21_211029 abs and norm	FA140_V21_211029_phenotypes.NormalizedRelative.plate_3.csv
+V22_211029 abs and norm	FA140_V22_211029_phenotypes.NormalizedRelative.plate_4.csv
+V23_211105 abs and norm	FA140_V23_211105_phenotypes.NormalizedRelative.plate_3.csv
+V24_211105 abs and norm	FA140_V24_211105_phenotypes.NormalizedRelative.plate_4.csv
